@@ -19,4 +19,4 @@ Our favorite weekend activities include backtesting strategies, experimenting wi
 Dive into the repository and explore how you can be a part of something transformative. Together, let’s innovate and build tools that make trading smarter and more accessible.  
 
 ---  
-Feel free to reach out if you have any questions! 😊
+Feel free to reach out by send us an email to it@fractova.com if you have any questions! 😊
