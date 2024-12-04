@@ -3,7 +3,7 @@
 Welcome to our GitHub repository! We're excited to have you here. Here's a little about us and how you can get involved:  
 
 ### 🙋‍♂️ Who We Are  
-We are passionate about creating cutting-edge tools for stock analysis, portfolio management, and algorithmic trading. Our work leverages **AI**, **blockchain technologies**, and **quantitative trading strategies** to empower decision-makers and traders alike.  
+We are passionate about creating cutting-edge tools for stock analysis, portfolio management, and algorithmic trading. Our work leverages **AI**, and **quantitative trading strategies** to empower decision-makers and traders alike.  
 
 ### 🌈 How You Can Contribute  
 - **Report Bugs**: Found an issue? Please let us know by opening an issue in this repository.  
